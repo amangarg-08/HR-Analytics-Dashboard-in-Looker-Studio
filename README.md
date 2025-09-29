@@ -1,9 +1,5 @@
 # HR Analytics Dashboard
 
-[🌐 View Interactive Dashboard in Looker Studio](https://lookerstudio.google.com/reporting/069a987e-e119-408a-9a23-75106db3292c)
-
----
-
 ## Project Overview
 This project analyzes an employee dataset to uncover insights related to:
 
